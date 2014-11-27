@@ -1,4 +1,4 @@
-#AFAFSA
+# AFAFSA
 -module(shop).
 -export([cost/1]).
 
